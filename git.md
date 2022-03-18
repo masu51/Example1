@@ -9,3 +9,4 @@ git log - журнал (--all, --graph))
 git diff - различия между комитами
 git branch - отображение и создание веток
 git checkout - переключение между ветками
+git merge - объединять
