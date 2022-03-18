@@ -3,6 +3,9 @@ def load_users(filename):
 
 def load_towns(filename):
     pass
+    
+def load_images(dir):
+    pass
 
 def main():
     pass
