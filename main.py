@@ -8,7 +8,7 @@ def load_images(dir):
     pass
 
 def main():
-    pass
+    print('вызов всех функций')
 
 
 if __name__ == '__main__':
