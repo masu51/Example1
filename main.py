@@ -5,7 +5,7 @@ def load_towns(filename):
     pass
     
 def load_images(dir):
-    pass
+    print('загрузка изображений')
 
 def main():
     print('вызов всех функций')
