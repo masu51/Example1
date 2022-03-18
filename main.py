@@ -2,8 +2,8 @@ def load_users(filename):
     pass
 
 def load_towns(filename):
-    pass
-    
+    print('загрузка городов')
+
 def load_images(dir):
     print('загрузка изображений')
 
